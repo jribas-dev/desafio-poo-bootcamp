@@ -1,7 +1,7 @@
 # desafio-poo-bootcamp 💎
 Abstraindo um Bootcamp usando orientação a objetos em Java
 
-<h1> Desafio: Aprenda na Prática Programação Orientada a Objetos</h1>
+<h1>Aprenda na Prática Programação Orientada a Objetos</h1>
 
 <p align="center"> 📜 <a href="https://academiapme-my.sharepoint.com/:p:/g/personal/camila_cavalcante_dio_me/EaXyYOjBaFpZjkxhexMo5EcBKMEEAI5t5aHlsTjnBQJlUw?e=nxdB6C"> SLIDES APRESENTADO NO PROJETO </a> 📜 </P>
 <p> Sejam bem-vindos ao desafio: <strong>APRENDENDO NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS.</strong><br>

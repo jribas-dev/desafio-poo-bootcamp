@@ -36,8 +36,8 @@ public class Main {
         devCamila.inscreverBootcamp(bootcamp);
         System.out.println("Aluno: " + devCamila.getNome());
         devCamila.progredir();
-        System.out.println("Conteúdos Pendentes "+devCamila.getNome()+":\n" + devCamila.getConteudosInscritos());
-        System.out.println("Conteúdos Concluídos "+devCamila.getNome()+":\n" + devCamila.getConteudosConcluidos());
+        System.out.println("Conteúdos Pendentes "+devCamila.getNome()+":\n\t" + devCamila.getConteudosInscritos());
+        System.out.println("Conteúdos Concluídos "+devCamila.getNome()+":\n\t" + devCamila.getConteudosConcluidos());
         System.out.println("XP:" + devCamila.calcularTotalXp());
 
         System.out.println("-------");
@@ -49,8 +49,8 @@ public class Main {
         devJoao.progredir();
         devJoao.progredir();
         devJoao.progredir();
-        System.out.println("Conteúdos Pendentes "+devJoao.getNome()+":\n" + devJoao.getConteudosInscritos());
-        System.out.println("Conteúdos Concluidos "+devJoao.getNome()+":\n" + devJoao.getConteudosConcluidos());
+        System.out.println("Conteúdos Pendentes "+devJoao.getNome()+":\n" + (devJoao.getConteudosInscritos().isEmpty() ? "\tBootcamp concluído" : devJoao.getConteudosInscritos()));
+        System.out.println("Conteúdos Concluidos "+devJoao.getNome()+":\n\t" + devJoao.getConteudosConcluidos());
         System.out.println("XP:" + devJoao.calcularTotalXp());
     }
 }

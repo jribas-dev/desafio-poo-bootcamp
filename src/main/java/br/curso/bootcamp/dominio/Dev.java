@@ -17,7 +17,7 @@ public class Dev {
         if(conteudo.isPresent()) {
             this.conteudosConcluidos.add(conteudo.get());
             this.conteudosInscritos.remove(conteudo.get());
-            System.out.println("Concluído -> " + conteudo.get().getTitulo());
+            System.out.println("\tConcluído -> " + conteudo.get().getTitulo());
         } else {
             System.err.println("Você não está matriculado em nenhum conteúdo!");
         }

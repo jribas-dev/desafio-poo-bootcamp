@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb41bdd8-59a1-4c82-b8fe-c0483649d352" name="Changes" comment="configurado para não dar warnings nas tipificações">
+    <list default="true" id="cb41bdd8-59a1-4c82-b8fe-c0483649d352" name="Changes" comment="alterado metodos to string para melhor visualização">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/curso/bootcamp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/curso/bootcamp/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/curso/bootcamp/dominio/Conteudo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/curso/bootcamp/dominio/Conteudo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/curso/bootcamp/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/curso/bootcamp/dominio/Curso.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/curso/bootcamp/dominio/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/curso/bootcamp/dominio/Dev.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/curso/bootcamp/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/curso/bootcamp/dominio/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678562571052</updated>
-      <workItem from="1678562572901" duration="4530000" />
+      <workItem from="1678562572901" duration="4867000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1678562885453</created>
@@ -97,7 +94,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678564756375</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adicionado classe Main fazendo uso dos Modelos criados">
+      <created>1678567185729</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678567185729</updated>
+    </task>
+    <task id="LOCAL-00005" summary="alterado metodos to string para melhor visualização">
+      <created>1678567250490</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678567250490</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +129,8 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="adicionado modelos dentro da package dominio" />
     <MESSAGE value="configurado para não dar warnings nas tipificações" />
-    <option name="LAST_COMMIT_MESSAGE" value="configurado para não dar warnings nas tipificações" />
+    <MESSAGE value="adicionado classe Main fazendo uso dos Modelos criados" />
+    <MESSAGE value="alterado metodos to string para melhor visualização" />
+    <option name="LAST_COMMIT_MESSAGE" value="alterado metodos to string para melhor visualização" />
   </component>
 </project>
